@@ -1,3 +1,7 @@
+# zip file
+*.zip
+*.rar
+
 # Prerequisites
 *.d
 
